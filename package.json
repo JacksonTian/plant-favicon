@@ -26,5 +26,8 @@
   ],
   "directories": {
     "test": "test"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
