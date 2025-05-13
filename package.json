@@ -1,0 +1,30 @@
+{
+  "name": "@jacksontian/plant_middleware_favicon",
+  "version": "1.0.0",
+  "description": "A plant middleware for favicon.ico",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix --ext .js,.cjs,.mjs,.ts,.jsx,.tsx index.js",
+    "test": "mocha -R spec -R html -R lcov test/**/*.test.js"
+  },
+  "keywords": [
+    "favicon",
+    "middleware"
+  ],
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.26.0",
+    "globals": "^16.0.0",
+    "mocha": "^11.1.0"
+  },
+  "files": [
+    "index.js",
+    "assets"
+  ],
+  "directories": {
+    "test": "test"
+  }
+}
