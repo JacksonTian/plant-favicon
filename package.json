@@ -1,5 +1,5 @@
 {
-  "name": "@jacksontian/plant_middleware_favicon",
+  "name": "@jacksontian/plant_favicon",
   "version": "1.0.0",
   "description": "A plant middleware for favicon.ico",
   "type": "module",
