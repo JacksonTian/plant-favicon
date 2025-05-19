@@ -15,7 +15,7 @@ npm i @jacksontian/plant-favicon
 Add the favicon middleware to your middleware list.
 
 ```js
-import favicon from '@jacksontian/plant_favicon';
+import favicon from '@jacksontian/plant-favicon';
 
 export default [
   favicon
