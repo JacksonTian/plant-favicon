@@ -1,6 +1,6 @@
 {
-  "name": "@jacksontian/plant_favicon",
-  "version": "1.0.0",
+  "name": "@jacksontian/plant-favicon",
+  "version": "0.1.0",
   "description": "A plant middleware for favicon.ico",
   "type": "module",
   "main": "index.js",
